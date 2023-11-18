@@ -1,0 +1,15 @@
+D:\Developments\MoreSand\Image.Plugin\Image.Process\bin\Debug\net5.0\Image.Process.deps.json
+D:\Developments\MoreSand\Image.Plugin\Image.Process\bin\Debug\net5.0\Image.Process.dll
+D:\Developments\MoreSand\Image.Plugin\Image.Process\bin\Debug\net5.0\ref\Image.Process.dll
+D:\Developments\MoreSand\Image.Plugin\Image.Process\bin\Debug\net5.0\Image.Process.pdb
+D:\Developments\MoreSand\Image.Plugin\Image.Process\bin\Debug\net5.0\Image.Plugin.dll
+D:\Developments\MoreSand\Image.Plugin\Image.Process\bin\Debug\net5.0\Image.Plugin.pdb
+D:\Developments\MoreSand\Image.Plugin\Image.Process\obj\Debug\net5.0\Image.Process.csproj.AssemblyReference.cache
+D:\Developments\MoreSand\Image.Plugin\Image.Process\obj\Debug\net5.0\Image.Process.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developments\MoreSand\Image.Plugin\Image.Process\obj\Debug\net5.0\Image.Process.AssemblyInfoInputs.cache
+D:\Developments\MoreSand\Image.Plugin\Image.Process\obj\Debug\net5.0\Image.Process.AssemblyInfo.cs
+D:\Developments\MoreSand\Image.Plugin\Image.Process\obj\Debug\net5.0\Image.Process.csproj.CoreCompileInputs.cache
+D:\Developments\MoreSand\Image.Plugin\Image.Process\obj\Debug\net5.0\Image.Process.csproj.CopyComplete
+D:\Developments\MoreSand\Image.Plugin\Image.Process\obj\Debug\net5.0\Image.Process.dll
+D:\Developments\MoreSand\Image.Plugin\Image.Process\obj\Debug\net5.0\ref\Image.Process.dll
+D:\Developments\MoreSand\Image.Plugin\Image.Process\obj\Debug\net5.0\Image.Process.pdb

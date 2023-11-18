@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Developments\\MoreSand\\Image.Plugin\\ImageTesting\\ImageTesting.csproj": {}
+  },
+  "projects": {
+    "D:\\Developments\\MoreSand\\Image.Plugin\\Image.Plugin\\Image.Plugin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Developments\\MoreSand\\Image.Plugin\\Image.Plugin\\Image.Plugin.csproj",
+        "projectName": "Image.Plugin",
+        "projectPath": "D:\\Developments\\MoreSand\\Image.Plugin\\Image.Plugin\\Image.Plugin.csproj",
+        "packagesPath": "C:\\Users\\Laptop & Pc World\\.nuget\\packages\\",
+        "outputPath": "D:\\Developments\\MoreSand\\Image.Plugin\\Image.Plugin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Laptop & Pc World\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Developments\\MoreSand\\Image.Plugin\\ImageTesting\\ImageTesting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Developments\\MoreSand\\Image.Plugin\\ImageTesting\\ImageTesting.csproj",
+        "projectName": "ImageTesting",
+        "projectPath": "D:\\Developments\\MoreSand\\Image.Plugin\\ImageTesting\\ImageTesting.csproj",
+        "packagesPath": "C:\\Users\\Laptop & Pc World\\.nuget\\packages\\",
+        "outputPath": "D:\\Developments\\MoreSand\\Image.Plugin\\ImageTesting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Laptop & Pc World\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "D:\\Developments\\MoreSand\\Image.Plugin\\Image.Plugin\\Image.Plugin.csproj": {
+                "projectPath": "D:\\Developments\\MoreSand\\Image.Plugin\\Image.Plugin\\Image.Plugin.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

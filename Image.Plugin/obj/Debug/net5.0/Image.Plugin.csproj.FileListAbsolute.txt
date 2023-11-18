@@ -1,0 +1,12 @@
+D:\Developments\MoreSand\Image.Plugin\Image.Plugin\bin\Debug\net5.0\Image.Plugin.deps.json
+D:\Developments\MoreSand\Image.Plugin\Image.Plugin\bin\Debug\net5.0\Image.Plugin.dll
+D:\Developments\MoreSand\Image.Plugin\Image.Plugin\bin\Debug\net5.0\Image.Plugin.pdb
+D:\Developments\MoreSand\Image.Plugin\Image.Plugin\obj\Debug\net5.0\Image.Plugin.csproj.AssemblyReference.cache
+D:\Developments\MoreSand\Image.Plugin\Image.Plugin\obj\Debug\net5.0\Image.Plugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developments\MoreSand\Image.Plugin\Image.Plugin\obj\Debug\net5.0\Image.Plugin.AssemblyInfoInputs.cache
+D:\Developments\MoreSand\Image.Plugin\Image.Plugin\obj\Debug\net5.0\Image.Plugin.AssemblyInfo.cs
+D:\Developments\MoreSand\Image.Plugin\Image.Plugin\obj\Debug\net5.0\Image.Plugin.csproj.CoreCompileInputs.cache
+D:\Developments\MoreSand\Image.Plugin\Image.Plugin\obj\Debug\net5.0\Image.Plugin.dll
+D:\Developments\MoreSand\Image.Plugin\Image.Plugin\obj\Debug\net5.0\ref\Image.Plugin.dll
+D:\Developments\MoreSand\Image.Plugin\Image.Plugin\obj\Debug\net5.0\Image.Plugin.pdb
+D:\Developments\MoreSand\Image.Plugin\Image.Plugin\obj\Debug\net5.0\refint\Image.Plugin.dll
